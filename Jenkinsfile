@@ -1,4 +1,5 @@
-//node {
+//Scripted Language
+/*node {
 	stage('Build') {
 		echo "Build"
 	}
@@ -8,7 +9,7 @@
 	stage('Integration Test') {
 		echo "Test"
 	}
-//}
+}*/
 //Declarative Language
 
 pipeline{
